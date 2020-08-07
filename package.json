@@ -1,0 +1,9 @@
+{
+  "name": "frontend-boilerplate",
+  "version": "0.1.0",
+  "description": "A frontend boilerplate.",
+  "main": "index.js",
+  "author": "Brayden Killeen",
+  "license": "MIT",
+  "private": true
+}
