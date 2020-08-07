@@ -5,5 +5,14 @@
   "main": "index.js",
   "author": "Brayden Killeen",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack --mode development"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }
