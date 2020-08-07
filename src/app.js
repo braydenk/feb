@@ -1,3 +1,3 @@
-const test = 'HI!'
+const test = () => `HIHI`
 
 export default test
