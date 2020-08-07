@@ -1,11 +1,12 @@
 import React from 'react'
-import './styles.css'
 import { hot } from 'react-hot-loader'
 
-class App extends React.Component {
-  render() {
-    return <h1>Hello, world!</h1>
-  }
+function App() {
+  return (
+    <div>
+      <h1>FEB.</h1>
+    </div>
+  )
 }
 
 export default hot(module)(App)
