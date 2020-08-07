@@ -3,10 +3,9 @@ import './styles.css'
 import { hot } from 'react-hot-loader'
 
 class App extends React.Component {
-    render() {
-        return <h1>Hello, world!</h1>
-    }
-
+  render() {
+    return <h1>Hello, world!</h1>
+  }
 }
 
 export default hot(module)(App)

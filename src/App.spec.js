@@ -8,7 +8,7 @@ import 'jest-dom/extend-expect'
 import 'react-testing-library/cleanup-after-each'
 
 describe('App', () => {
-    it('Renders without error', () => {
-        render(<App />)
-      })
+  it('Renders without error', () => {
+    render(<App />)
+  })
 })
